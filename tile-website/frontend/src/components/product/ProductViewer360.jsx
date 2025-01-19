@@ -1,0 +1,1 @@
+// Placeholder for ProductViewer360.jsx
